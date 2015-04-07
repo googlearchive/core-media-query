@@ -1,4 +1,4 @@
 core-media-query
 ================
 
-See the [component page](http://polymer-project.org/docs/elements/core-elements.html#core-media-query) for more information.
+See the [component page](https://www.polymer-project.org/0.5/docs/elements/core-media-query.html) for more information.
